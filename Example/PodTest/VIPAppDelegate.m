@@ -7,6 +7,7 @@
 //
 
 #import "VIPAppDelegate.h"
+#import <UIViewController+DynamicIcon.h>
 
 @implementation VIPAppDelegate
 
