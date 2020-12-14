@@ -9,6 +9,8 @@
 #import "UIViewController+DynamicIcon.h"
 
 @implementation UIViewController (DynamicIcon)
+
+/// test
 + (void)initialize {
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
